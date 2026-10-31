@@ -12,8 +12,8 @@
 |------|-------|---------|------|
 | ① | [medxpert-reg-path-skill](../medxpert-reg-path-skill/) | 这个产品去哪个市场走哪条路？ | ✅ v0.1 |
 | ② | **medxpert-pre-submission-check-skill**（本项目） | 提交前最后自查，别踩P0级坑 | ✅ v0.1 |
-| ③ | medxpert-deficiency-reply-skill | 收到发补信，怎么回才专业 | 🚧 规划中 |
-| ④ | medxpert-clinical-eval-skill | 临床评价报告怎么写 | 🚧 规划中 |
+| ③ | [medxpert-deficiency-reply-skill](../medxpert-deficiency-reply-skill/) | 收到发补信，怎么回才专业 | ✅ v0.1 |
+| ④ | [medxpert-clinical-eval-skill](../medxpert-clinical-eval-skill/) | 临床评价报告怎么写 | ✅ v0.1 |
 
 **同一个体系：LGD（有籍有证有门禁）· 同一个团队：MedXpert · 同一个风格：纯开源MIT协议**
 
@@ -45,7 +45,7 @@ MedXpert Pre-Submission Check做的事情，是把注册专员的"踩坑经验"�
 ## 30秒开始
 
 ```bash
-npx skills add https://github.com/medxpert/medxpert-pre-submission-check-skill
+npx skills add https://github.com/stevenzhao07/medxpert-pre-submission-check-skill
 ```
 
 安装后直接对Agent说：
