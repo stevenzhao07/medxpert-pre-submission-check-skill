@@ -96,13 +96,10 @@ description: 医疗器械申报材料提交前最终自查。输入拟提交的�
 ```
 medxpert-pre-submission-check-skill/
 ├── SKILL.md
-├── references/
-│   ├── us-510k-checklist.md      ← 美国510(k)提交前自查清单
-│   ├── eu-mdr-checklist.md       ← 欧盟MDR技术文档自查清单
-│   └── cn-nmpa-checklist.md      ← 中国NMPA注册资料自查清单
-└── assets/
-    └── examples/
-        └── example-check-report.md  ← 完整自查报告示例
+└── references/
+    ├── us-510k-checklist.md      ← 美国510(k)提交前自查清单
+    ├── eu-mdr-checklist.md       ← 欧盟MDR技术文档自查清单
+    └── cn-nmpa-checklist.md      ← 中国NMPA注册资料自查清单
 ```
 
 ---
